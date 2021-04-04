@@ -1,7 +1,7 @@
 # Innomatics-Hackathon-Task
 
 
-*Task:
+* Task:
 
 - Train different Machine Learning models:
 - Logistic Regression
@@ -11,4 +11,4 @@
 - KNN
 
 
-*Comparing all models Accuracy
+* Comparing all models Accuracy
